@@ -18,8 +18,8 @@ $teal: #bd93f9;
 $g1: transparentize($purple, 0.5);
 $g2: transparentize($purple, 0.5);
 
-$selected_fg_color: #181926;
-$selected_bg_color: transparentize(#c6a0f6, 0.5);
+$selected_fg_color: #7a1fea;
+$selected_bg_color: transparentize(#7a1fea, 0.5);
 $selected_borders_color: darken($selected_bg_color, 10%);
 $borders_color: darken($bg_color, 6%);
 $borders_edge: transparentize(white, 0.9);

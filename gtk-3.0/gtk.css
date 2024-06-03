@@ -15,10 +15,10 @@
 @define-color header_bg_color #1e1f29;
 @define-color header_fg_color #f8f8f2;
 /*@define-color selected_bg_color #00b0ff;*/
-@define-color selected_bg_color #c6a0f6;
+@define-color selected_bg_color #7a1fea;
 /*@define-color selected_bg_color #33CBBF;
 */
-@define-color selected_fg_color #181926;
+@define-color selected_fg_color #7a1fea;
 @define-color tooltip_bg_color #f8f8f8;
 @define-color tooltip_fg_color #2d2d2d;
 
